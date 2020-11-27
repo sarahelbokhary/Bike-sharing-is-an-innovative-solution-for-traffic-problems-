@@ -27,3 +27,5 @@
 ### the subscribers ride much shorter/quicker trips compared to customers on each day of the week. Both user types have an obvious increase of trip duration on Saturdays and Sundays over weekends.
 ### the average age of males is slightly higher than the females also it's shown that customers in general have lowr average age han subscribers.
 ### Female customers tend to travel more in duration than Male Customers in terms of the Boxplot. Infact ,and  in the Subscriber too. Another pretty important thing we can observe is Female customers tend to take more duration than Female subscribers
+## Key Insights for Presentation
+### The exploration was carried out keeping marketing and sales in mind about the target customer on the basis of age , customer gender and type We did find that Customer showed more duration in transit than regular subscribers We also found that Weekday showed more rides than Weekends. Also , Women tend to drive more on as a customer than Male.
